@@ -9,7 +9,7 @@
 - 📍 Location: Nairobi, Kenya
 
 ### Summary
-financial analyst making the exciting leap into the world of web development.
+Financial analyst making the exciting leap into the world of web development.
 I'm passionate about learning the latest web technologies and creating designs that not only look great but also provide an exceptional user experience. When I'm not buried in code or financial reports, you'll find me exploring new design trends and experimenting with innovative ideas.
 
 ### Technical Skills
@@ -18,7 +18,7 @@ I'm passionate about learning the latest web technologies and creating designs t
 
 
 ### Code Examples
-1. **Personal Portfolio Website** ([GitHub](https://github.com/Martinxmaina portfolio))
+1. **Personal Portfolio Website** [https://martinxmaina.github.io/portfolio/(https://martinxmaina.github.io/portfolio/)]
    - Developed a responsive portfolio website using css,html and javascript
    - Implemented dark/light theme switching and smooth animations
 
