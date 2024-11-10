@@ -7,6 +7,7 @@
 - 💼 LinkedIn: [linkedin.com/in/martinmainafmva](linkedin.com/in/martinmainafmva/)
 - 🐱 GitHub: [github.com/martinxmiana](https://github.com/martinxmaina)
 - 📍 Location: Nairobi, Kenya
+- portfolio:  [https://martinxmaina.github.io/portfolio/](https://martinxmaina.github.io/portfolio/)]
 
 ### Summary
 Financial analyst making the exciting leap into the world of web development.
@@ -17,8 +18,8 @@ I'm passionate about learning the latest web technologies and creating designs t
 - **Frameworks/Libraries:** React.js, Bootstrap, Tailwind CSS, Flask
 
 
-### Code Examples
-1. **Personal Portfolio Website** [https://martinxmaina.github.io/portfolio/(https://martinxmaina.github.io/portfolio/)]
+### Projects
+1. **Personal Portfolio Website** [https://martinxmaina.github.io/portfolio/](https://martinxmaina.github.io/portfolio/)]
    - Developed a responsive portfolio website using css,html and javascript
    - Implemented dark/light theme switching and smooth animations
 
